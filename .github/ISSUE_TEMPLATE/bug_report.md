@@ -20,7 +20,7 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error
 
-**Browser (please complete the following information):**
+**Browser**
 The browser the bug was found on [e.g. chrome, safari]
 
 **Screenshots**

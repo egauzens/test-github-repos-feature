@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Describe the bug**
+**Description**
 A clear and concise description of what the bug is.
 
 **Specific page url**
@@ -20,10 +20,8 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Browser (please complete the following information):**
+The browser the bug was found on [e.g. chrome, safari]
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.

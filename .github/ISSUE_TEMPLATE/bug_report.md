@@ -32,5 +32,8 @@ Please enter one of the following: DRC Member, SPARC Investigator, HEAL RE-JOIN 
 yes or no
 
 ## Contact Info
-### Name: Your full name (if you want to be contacted)
-### E-mail: Your e-mail (if you want to be contacted)
+### Name
+Your full name (if you want to be contacted)
+
+### E-mail
+Your e-mail (if you want to be contacted)
